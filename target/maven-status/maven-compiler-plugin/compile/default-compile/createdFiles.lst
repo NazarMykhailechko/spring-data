@@ -1,0 +1,9 @@
+data\ioc_example\service\CourseServiceImpl.class
+data\ioc_example\model\Student.class
+data\ioc_example\service\CourseService.class
+data\ioc_example\model\Course.class
+data\ioc_example\dao\CourseDao.class
+data\ioc_example\model\Teacher.class
+data\ioc_example\model\GeneralId.class
+data\ioc_example\aop\CourseServiceAop.class
+data\ioc_example\Run.class
